@@ -1,0 +1,2 @@
+this is test text file!
+this is test for amend option in git
